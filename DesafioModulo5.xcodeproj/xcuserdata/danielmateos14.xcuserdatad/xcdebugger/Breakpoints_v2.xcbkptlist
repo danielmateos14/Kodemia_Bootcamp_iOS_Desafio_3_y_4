@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5173815B-618F-40FE-92AD-6C27F1F1CDFF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A96BDAF4-35AF-4DFA-B636-9B9AA6874849"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DesafioModulo5/ViewModel/CovidCellViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "getCovidDeaths()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A96BDAF4-35AF-4DFA-B636-9B9AA6874849 - 9baaa1f06e5150d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DesafioModulo5.CovidCellViewModel.getCovidDeaths() -&gt; ()"
+                  moduleName = "DesafioModulo5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielmateos14/Documents/Kodemia/Bootcamp%20iOS/Modulo5/DesafioModulo5/DesafioModulo5/ViewModel/CovidCellViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "692">
+               </Location>
+               <Location
+                  uuid = "A96BDAF4-35AF-4DFA-B636-9B9AA6874849 - 9baaa1f06e5150d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DesafioModulo5.CovidCellViewModel.getCovidDeaths() -&gt; ()"
+                  moduleName = "DesafioModulo5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielmateos14/Documents/Kodemia/Bootcamp%20iOS/Modulo5/DesafioModulo5/DesafioModulo5/ViewModel/CovidCellViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "A96BDAF4-35AF-4DFA-B636-9B9AA6874849 - 9baaa1f06e514d3f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DesafioModulo5.CovidCellViewModel.getCovidDeaths() -&gt; ()"
+                  moduleName = "DesafioModulo5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielmateos14/Documents/Kodemia/Bootcamp%20iOS/Modulo5/DesafioModulo5/DesafioModulo5/ViewModel/CovidCellViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
